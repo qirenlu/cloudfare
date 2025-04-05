@@ -1,7 +1,7 @@
 export default {
   async fetch(request, env, ctx) {
     // Notion 页面分享链接
-    const notionPageUrl = 'https://your-notion-page-url';
+    const notionPageUrl = 'https://www.notion.so/https-times1740911335-subtangniu-top-9606-v2b-catnet-api-v1-client-subscribe-token-10ac210b8932bd1-1cc019f2b448806a957de6b69db2fae8?pvs=4';
 
     // 获取 Notion 页面内容
     const response = await fetch(notionPageUrl);
